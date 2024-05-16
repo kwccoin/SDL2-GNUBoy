@@ -19,3 +19,4 @@ build/*
 saves/*
 cmake-*
 *.AppImage
+.DS_Store
